@@ -1,0 +1,41 @@
+div {
+     width: 320px;
+     margin: auto;
+     text-align: left;
+     background-color: rgb(245, 245, 245);
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: medium;
+}
+.main-animal-card {
+     border: 1.5px solid lightgrey;
+     padding: 5px;
+     box-shadow: 5px 10px lightgrey;
+}
+.animal-info {
+     width: 300px;
+     border: 1.5px solid lightgrey;
+     text-align: left;
+     padding: 5px;
+}
+#animal-quick-info {
+     font-style: italic;
+}
+.animal-facts {
+     font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+.animal-image {
+    width: 310px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+img {
+    width: 100%
+}
+h3 {
+    margin: 5px
+}
